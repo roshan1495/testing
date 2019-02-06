@@ -1,5 +1,5 @@
 public class java{
 
-a=10;
+a=20;
 
 }
